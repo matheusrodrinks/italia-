@@ -1,18 +1,31 @@
 *{
     font-family: sans-serif;
-    font-size: 16px;
+    font-size: 20px;
 
 }
 body{
+    height: 100px;
     background-color: rgb(16, 16, 78);
+    margin: 0% ;
 
 }
 main {
     background-color: white;
     width: 500px;
     margin: auto;
-    padding: 10px;
+    padding: 100px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.205);
 }
 
+img.lado {
+    float:right;
+    height: 100px;
+    width: 200px;
+    margin: 0px 10px 10px 0
 
+}
+img.centro {
+    float: right;
+    height: 100px;
+    width: 200px;
+}
