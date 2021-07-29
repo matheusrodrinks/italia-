@@ -18,16 +18,23 @@ main {
 }
 
 h1 {
-margin: auto;
+margin: 0px 30px 0px 100px;
+text-align: justify;
 
 }
 
 h2 {
 margin: 10px 2px 2px 2px;
+text-align: justify;
 
 }
 p {
     margin: auto;
+    text-align: left;
+}
+p{
+    margin: auto;
+    text-align: left;
 }
 
 img.lado {
